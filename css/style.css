@@ -1,0 +1,33 @@
+*{
+    background-color: aquamarine;
+}
+h1{
+    background-color: blueviolet;
+}
+#paragraf1{
+    background-color: chocolate;
+}
+h3{
+    background-color: cornflowerblue;
+}
+#paragraf2{
+    background-color: darkgreen;
+}
+ol{
+    background-color: darkslategray;
+}
+#item1{
+    color: deeppink;
+}
+#item2{
+    color: deepskyblue;
+}
+#item3{
+    color: firebrick;
+}
+#item4{
+    color: greenyellow;
+}
+#item5{
+    color: lightpink;
+}
